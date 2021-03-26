@@ -1,2 +1,2 @@
 # random-code
-Just for fun,
+Just for fun!
