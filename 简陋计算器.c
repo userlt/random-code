@@ -26,6 +26,6 @@ int main()
 			goto begin;
 		}
 		break;}
-		printf ("%f %s %f = %f\n",a,s,b,c);
+		printf ("%f %c %f = %f\n",a,s,b,c);
 	
 } 
